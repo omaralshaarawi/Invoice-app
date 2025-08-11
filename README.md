@@ -261,8 +261,3 @@ mvn test
 - BCrypt password encryption.
 - Method-level security (`@PreAuthorize`, `@Secured`).
 
----
-
-## **License**
-MIT License
-
